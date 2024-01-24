@@ -28,4 +28,5 @@ Connected and transformed raw data from Excel files and designed interactive rep
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
 
+
 ![Pizza Sales Dashboard Screenshot](https://github.com/RahulK199/Pizza-Sales-Analysis-Dashboard-using-Power-BI/assets/75177680/05c5fd16-2578-41ee-9363-5766f096ebf8)
