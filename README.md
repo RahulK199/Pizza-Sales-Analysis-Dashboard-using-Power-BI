@@ -1,5 +1,5 @@
 # Pizza-Sales-Analysis-Dashboard-using-Power-BI
-OJECTIVE
+OBJECTIVE
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
 
 -To identify the average number of pizzas in an order, as well as the top-selling pizzas, in order to inform inventory management and marketing strategies.
